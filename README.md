@@ -1,5 +1,8 @@
 # ikt-06.09
 
+Miért nem volt helyes a "\#\#Az első alcím helytelenül" írása?
+Mert nem tettünk szóköz a két \# után.
+
 A \# - nek fontos szerepe van a Markdown nyelvben.
 1 darab belőle az egyes szintű címsort vezeti be. Kettő a 2-es szintű címsort.
 Ahhoz, hogy az ilyen speciális karaktereket láthatóan be tudjuk írni, tehát nem a speciális jelentésében használjuk, a szerkesztéskor elé kell írnunk egy \\ jelet. 
@@ -12,3 +15,10 @@ A dőlt írásmódot 1 csillaggal kezdve 1-gyel befejezte hasonlóan írtuk.
 
 Érdemes megnézni, hogy mi történik, ha szóközt írunk a két csillag után, utána egy szövegrész, majd megint 2 csillagot.
 (és ugyanezt 2 helyett 1 csillaggal)
+
+Mit néztünk meg eddig? 
+-címsorok
+- bekezdések
+- vastag betűs írásmód
+- dőlt betűs írásmód
+- speciális karakterek beírása eredeti értelemven
